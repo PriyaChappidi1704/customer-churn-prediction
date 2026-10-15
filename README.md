@@ -26,7 +26,3 @@ python train_model.py
 
 4.Launch the web application:
 streamlit run app.py
-
-streamlit run app.py
-
-Click the green "Commit changes..." button in the top-right corner, then click "Commit changes" again.
